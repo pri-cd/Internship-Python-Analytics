@@ -62,7 +62,7 @@ We welcome contributions! Feel free to submit a pull request or open an issue if
 
 ## 📞 Contact
 
-If you have any questions, reach out at [📧 Your Email](mailto:prithvee11901@gmail.com).
+If you have any questions, reach out at [📧Email](mailto:prithvee11901@gmail.com).
 
 ---
 
