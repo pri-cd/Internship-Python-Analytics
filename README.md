@@ -50,7 +50,7 @@ These projects focuses on:
 ---
 
 ## 📎 Related Links
-- [🌐 Visit YBI Foundation](https://ybifoundation.org)
+- [🌐 Visit YBI Foundation](https://www.ybifoundation.org/#/home)
 
 ---
 
