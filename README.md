@@ -74,6 +74,6 @@ This project is licensed under the Apache License - see the [LICENSE](LICENSE) f
 
 ## 🌍 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prithvee-raj) 
-[![GitHub](https://img.shields.io/badge/GitHub-YourUserName-lightgrey?style=flat-square&logo=github)](https://github.com/pri-cd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prithvee-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prithvee-raj) 
+[![GitHub](https://img.shields.io/badge/GitHub-Pri-cd-lightgrey?style=flat-square&logo=github)](https://github.com/pri-cd)
 
