@@ -18,6 +18,7 @@
 - **Instances**: 19,020
 - **Features**: 10 real-valued, continuous features with no missing values
 - **Associated Tasks**: Classification (Hadron vs. Gamma)
+
 | Variable   | Description                                         | Units |
 |------------|-----------------------------------------------------|-------|
 | **fLength**  | Major axis of ellipse                               | mm    |
