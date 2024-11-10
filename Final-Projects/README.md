@@ -1,7 +1,6 @@
 # **Gamma & Hadron Ray Classification Project**
 
 ![MAGIC Telescope](./MAGIC-Telescope.jpg)
-A Simple ML Classification for MAGIC Gamma and Hadron Rays.
 
 ## **Documentation**
 
